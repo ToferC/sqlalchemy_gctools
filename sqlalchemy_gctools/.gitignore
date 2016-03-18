@@ -13,12 +13,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-*.gexf
-*.csv
-
-# Directories
-.ipynb_checkpoints/
-*.pyc
 
 # Windows shortcuts
 *.lnk
