@@ -1,3 +1,4 @@
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -15,10 +16,19 @@ $RECYCLE.BIN/
 *.msp
 *.gexf
 *.csv
+*.txt
+*.gefx
+gcconnex_blogs_dictionary_data
+gcconnex_group_dictionary_data
+gcconnex_group_tags_dictionary_data
 
 # Directories
 .ipynb_checkpoints/
 *.pyc
+Results/
+.ipynb_checkpoints/
+.git/
+__pycache__/
 
 # Windows shortcuts
 *.lnk
