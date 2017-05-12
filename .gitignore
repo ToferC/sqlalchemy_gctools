@@ -2,6 +2,7 @@
 
 *.txt
 *.gefx
+*.pkl
 gcconnex_blogs_dictionary_data
 gcconnex_group_dictionary_data
 gcconnex_group_tags_dictionary_data
