@@ -1,15 +1,66 @@
-# Gitignore
 
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.gexf
+*.csv
 *.txt
 *.gefx
 *.pkl
+
 gcconnex_blogs_dictionary_data
 gcconnex_group_dictionary_data
 gcconnex_group_tags_dictionary_data
 
-# Folders
-
+# Directories
+.ipynb_checkpoints/
+*.pyc
 Results/
 .ipynb_checkpoints/
 .git/
 __pycache__/
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+*.png
